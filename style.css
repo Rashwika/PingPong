@@ -1,0 +1,27 @@
+body{
+    font-family: cursive;
+}
+.edit{
+    width:100%;
+    margin-top: 0;
+    height:60px;
+    font-size:xx-large;
+    font-family:cursive;
+}
+.change{
+    font-size: x-large;
+    width: 100px;
+    font-family: cursive;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color: white;
+}
+canvas{
+    box-shadow:5px 5px 5px white;
+    border-radius:20px;
+    border: 3px solid white;
+}
